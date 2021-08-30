@@ -61,6 +61,7 @@ Analizar las diferencias entre un inductor y capacitor, así como también la si
 **1. ¿Cómo se comporta la bobina y el capacitor en corriente continua (Cero Hz)?**
 
 Las bobinas almacenan energía en forma de campo magnético. Al conectar una corriente continua, la bobina retiene el paso de electrones hasta que se establece el campo magnético. 
+
 Un Capacitor en Corriente continua se comporta prácticamente como uno ideal, es decir, como un circuito abierto. Esto es así en régimen permanente ya que en régimen transitorio, esto es, al conectar o desconectar un circuito con condensador, suceden fenómenos eléctricos transitorios que inciden sobre la diferencia de potencial en sus bornes.
 
 **2. ¿Cómo se comporta la bobina y el capacitor en corriente alterna?**
@@ -74,6 +75,7 @@ Al conectar una Corriente Alterna sinusoidal v(t) a un Capacitor circulará una 
 El voltaje y corriente dentro de los circuitos variaría en cada bobina o capacitor según como lo conectemos ya que los capacitores en serie se dividen y en paralelo se suman, encambio con las bobinas es al revés en serie se suman y en paralelo se dividen.
 
 **4. ¿Qué son los valores eficaces de voltaje y corriente?**
+
 Un valor eficaz de una corriente o un voltaje en corriente alterna es el valor de una corriente o un voltaje en corriente continua que puede producir la misma potencia que dicho valor de voltaje o corriente en alterna.
 
 
@@ -90,4 +92,8 @@ Un valor eficaz de una corriente o un voltaje en corriente alterna es el valor d
 
 ## 7. Bibliografia : 
 
+Mecafenix, I. (20 de Febrero de 2019). Ingeniería Mecafenix. Obtenido de https://www.ingmecafenix.com/electronica/el-capacitor/
 
+Eléctricas, P. (09 de Febrero de 2018). Plantas eléctricas. Obtenido de https://www.luzplantas.com/que-es-un-inductor-y-como-funciona/
+
+Online, C. T. (17 de Abril de 2020). Capacitación Técnica Online. Obtenido de https://capacitaciontecnica.com.ar/2020/04/17/que-son-los-capacitores/
