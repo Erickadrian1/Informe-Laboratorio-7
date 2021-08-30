@@ -39,11 +39,17 @@ Analizar las diferencias entre un inductor y capacitor, así como también la si
 ## 3. Materiales : 
 
 •	Generador de Señales
+
 •	 Fuente DC
+
 •	Osciloscopio
+
 •	Protoboard
+
 •	Multimetro
+
 •	Cables Conductores
+
 •	Resistencias, Bobinas y Capacitores
 
 ## 4. Procedimiento : 
