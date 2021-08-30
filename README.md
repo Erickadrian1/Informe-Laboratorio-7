@@ -32,7 +32,26 @@ Analizar las diferencias entre un inductor y capacitor, así como también la si
 
 ## 2. Marco Teorico : 
 
+![capacitor](https://user-images.githubusercontent.com/84588860/131411092-a9423789-bd2e-49c6-a24d-7c422459e0ce.png)
 
+![Inductor](https://user-images.githubusercontent.com/84588860/131411098-14d8f48c-f3bb-4adf-a531-c6368e348ae6.png)
 
+## 3. Materiales : 
+
+•	Generador de Señales
+•	 Fuente DC
+•	Osciloscopio
+•	Protoboard
+•	Multimetro
+•	Cables Conductores
+•	Resistencias, Bobinas y Capacitores
+
+## 4. Procedimiento : 
+
+## 5. Video : 
+
+## 6. Conclusiones : 
+
+## 7. Bibliografia : 
 
 
