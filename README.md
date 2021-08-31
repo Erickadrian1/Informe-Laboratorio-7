@@ -232,6 +232,14 @@ Onda Senoidal
 
 ## 3.2 Analisis de Resultados : 
 
+**Inductor**
+
+![image](https://user-images.githubusercontent.com/84588860/131442544-7e9bb877-cb33-4d1d-a392-9b910c31d2cd.png)
+
+**Capacitor**
+
+![image](https://user-images.githubusercontent.com/84588860/131442621-99513acb-4b80-4d54-bc5c-8ff9174e6dfe.png)
+
 ## 4. Preguntas : 
 
 **1. ¿Cómo se comporta la bobina y el capacitor en corriente continua (Cero Hz)?**
