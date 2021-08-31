@@ -70,9 +70,10 @@ Voltaje
 
 ![image](https://user-images.githubusercontent.com/84588860/131439914-e437736f-19ef-48eb-ad5e-ef03819f2225.png)
 
-Onda Senoidal 
+Voltaje Pico
 
-![image](https://user-images.githubusercontent.com/84588860/131439994-5dacd549-4aeb-4301-a96d-038d6ed15418.png)
+![image](https://user-images.githubusercontent.com/84594486/131457610-7b2c7f3d-6050-48c6-bb93-a35a663400b1.png)
+
 
 • Frecuencia 10 Hz 
 
@@ -84,7 +85,7 @@ Voltaje
 
 ![image](https://user-images.githubusercontent.com/84588860/131440135-175fe80f-21b9-4ada-ac1a-f6dd065aecd0.png)
 
-Onda Senoidal
+Voltaje Pico
 
 ![image](https://user-images.githubusercontent.com/84588860/131440178-f660fb9c-d715-4eb7-ae4c-c62723a3b913.png)
 
@@ -98,7 +99,7 @@ Voltaje
 
 ![image](https://user-images.githubusercontent.com/84588860/131440272-07782644-30af-4654-8a86-902744ca6aec.png)
 
-Onda Senoidal 
+Voltaje Pico
 
 ![image](https://user-images.githubusercontent.com/84588860/131440310-8b869b2b-2ac0-41ef-ae45-451255542d13.png)
 
@@ -112,7 +113,7 @@ Voltaje
 
 ![image](https://user-images.githubusercontent.com/84588860/131440409-2e22ad70-fd02-41d5-b395-36db9d136793.png)
 
-Onda Senoidal 
+Voltaje Pico
 
 ![image](https://user-images.githubusercontent.com/84588860/131440434-8993608a-2fe4-43a0-aa97-3b5739310966.png)
 
@@ -126,7 +127,7 @@ Voltaje
 
 ![image](https://user-images.githubusercontent.com/84588860/131440554-f3960ffd-d7ee-478e-bc1e-523ca94ce936.png)
 
-Onda Senoidal 
+Voltaje Pico
 
 ![image](https://user-images.githubusercontent.com/84588860/131440822-0c964e98-cb64-490c-9007-30ad6cdb3c7f.png)
 
@@ -140,7 +141,7 @@ Voltaje
 
 ![image](https://user-images.githubusercontent.com/84588860/131440902-b76d8613-ed3a-494e-aae8-48ec08c01936.png)
 
-Onda Senoidal 
+Voltaje Pico
 
 ![image](https://user-images.githubusercontent.com/84588860/131440945-16cb2e30-3aa1-44e6-9fe7-27a0a4e47a68.png)
 
@@ -156,7 +157,7 @@ Voltaje
 
 ![image](https://user-images.githubusercontent.com/84588860/131441759-c543b13d-1529-48a0-9f06-3c34a2a05fb8.png)
 
-Onda Senoidal 
+Voltaje Pico
 
 ![image](https://user-images.githubusercontent.com/84588860/131441788-f6812a56-98b6-436b-af5f-e23a038b44ad.png)
 
@@ -170,7 +171,7 @@ Voltaje
 
 ![image](https://user-images.githubusercontent.com/84588860/131441853-edcbd5bd-4299-4ed4-a01d-73a7ed7da51a.png)
 
-Onda Senoidal 
+Voltaje Pico
 
 ![image](https://user-images.githubusercontent.com/84588860/131441882-4d3db267-c989-4c27-8e43-e45c8b8dde57.png)
 
@@ -184,7 +185,7 @@ Voltaje
 
 ![image](https://user-images.githubusercontent.com/84588860/131441955-6bacc0af-b631-40f0-b593-d23779caaa51.png)
 
-Onda Senoidal 
+Voltaje Pico 
 
 ![image](https://user-images.githubusercontent.com/84588860/131442030-45fbe40c-e8ef-4e98-ba60-0c18332968ca.png)
 
@@ -198,7 +199,7 @@ Voltaje
 
 ![image](https://user-images.githubusercontent.com/84588860/131442102-bf283e8f-638e-45fe-840d-39d529c7347c.png)
 
-Onda Senoidal 
+Voltaje Pico
 
 ![image](https://user-images.githubusercontent.com/84588860/131442136-352d60b9-f8d9-4997-aacb-53417215523a.png)
 
@@ -212,7 +213,7 @@ Voltaje
 
 ![image](https://user-images.githubusercontent.com/84588860/131442237-c49d7ea6-70a6-452c-ba3b-670189e59129.png)
 
-Onda Senoidal 
+Voltaje Pico
 
 ![image](https://user-images.githubusercontent.com/84588860/131442260-70aced57-b460-4828-8c90-d8f8424b0779.png)
 
@@ -226,7 +227,7 @@ Voltaje
 
 ![image](https://user-images.githubusercontent.com/84588860/131442324-a63ef820-c209-41e0-a6ec-be68ea112545.png)
 
-Onda Senoidal 
+Voltaje Pico
 
 ![image](https://user-images.githubusercontent.com/84588860/131442353-cecd58a2-7965-4033-82a1-28c98b67f06a.png)
 
@@ -234,11 +235,11 @@ Onda Senoidal
 
 **Inductor**
 
-![image](https://user-images.githubusercontent.com/84588860/131442544-7e9bb877-cb33-4d1d-a392-9b910c31d2cd.png)
+![image](https://user-images.githubusercontent.com/84594486/131457969-85014f7a-5173-4ed9-9279-e0b7bb9274cc.png)
 
 **Capacitor**
 
-![image](https://user-images.githubusercontent.com/84588860/131442621-99513acb-4b80-4d54-bc5c-8ff9174e6dfe.png)
+![image](https://user-images.githubusercontent.com/84594486/131457919-f49095ff-d78b-48ff-aa83-b49f4294d837.png)
 
 ## 4. Preguntas : 
 
@@ -264,6 +265,8 @@ Un valor eficaz de una corriente o un voltaje en corriente alterna es el valor d
 
 
 ## 5. Video : 
+
+https://www.youtube.com/watch?v=O5wbBKd8OHg 
 
 ## 6. Conclusiones : 
 
