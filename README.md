@@ -58,6 +58,8 @@ Analizar las diferencias entre un inductor y capacitor, así como también la si
 
 **a. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.**
 
+**Capacitor** 
+
 • Frecuencia 0 Hz
 
 Corriente 
@@ -142,13 +144,91 @@ Onda Senoidal
 
 ![image](https://user-images.githubusercontent.com/84588860/131440945-16cb2e30-3aa1-44e6-9fe7-27a0a4e47a68.png)
 
+**Inductor**
 
+• Frecuencia 0 Hz 
 
+Corriente 
 
+![image](https://user-images.githubusercontent.com/84588860/131441729-9d8f68e2-8ebb-47d7-bdd0-d10556855c58.png)
 
+Voltaje 
 
+![image](https://user-images.githubusercontent.com/84588860/131441759-c543b13d-1529-48a0-9f06-3c34a2a05fb8.png)
 
+Onda Senoidal 
 
+![image](https://user-images.githubusercontent.com/84588860/131441788-f6812a56-98b6-436b-af5f-e23a038b44ad.png)
+
+• Frecuencia 10 Hz 
+
+Corriente 
+
+![image](https://user-images.githubusercontent.com/84588860/131441834-483914e5-45dd-4052-af09-8ebf3d96a750.png)
+
+Voltaje 
+
+![image](https://user-images.githubusercontent.com/84588860/131441853-edcbd5bd-4299-4ed4-a01d-73a7ed7da51a.png)
+
+Onda Senoidal 
+
+![image](https://user-images.githubusercontent.com/84588860/131441882-4d3db267-c989-4c27-8e43-e45c8b8dde57.png)
+
+• Frecuencia 50 Hz 
+
+Corriente 
+
+![image](https://user-images.githubusercontent.com/84588860/131441926-f8390563-7a62-4cf1-b33b-ef2a5b95a47c.png)
+
+Voltaje 
+
+![image](https://user-images.githubusercontent.com/84588860/131441955-6bacc0af-b631-40f0-b593-d23779caaa51.png)
+
+Onda Senoidal 
+
+![image](https://user-images.githubusercontent.com/84588860/131442030-45fbe40c-e8ef-4e98-ba60-0c18332968ca.png)
+
+• Frecuencia 100 Hz 
+
+Corriente 
+
+![image](https://user-images.githubusercontent.com/84588860/131442068-222ffbb9-5671-4a4a-8db6-ce76598ab540.png)
+
+Voltaje 
+
+![image](https://user-images.githubusercontent.com/84588860/131442102-bf283e8f-638e-45fe-840d-39d529c7347c.png)
+
+Onda Senoidal 
+
+![image](https://user-images.githubusercontent.com/84588860/131442136-352d60b9-f8d9-4997-aacb-53417215523a.png)
+
+• Frecuencia 500 Hz 
+
+Corriente 
+
+![image](https://user-images.githubusercontent.com/84588860/131442213-f89b33db-7ff8-4b2f-a118-80e7796e77ea.png)
+
+Voltaje 
+
+![image](https://user-images.githubusercontent.com/84588860/131442237-c49d7ea6-70a6-452c-ba3b-670189e59129.png)
+
+Onda Senoidal 
+
+![image](https://user-images.githubusercontent.com/84588860/131442260-70aced57-b460-4828-8c90-d8f8424b0779.png)
+
+• Frecuencia 1000 Hz 
+
+Corriente 
+
+![image](https://user-images.githubusercontent.com/84588860/131442302-58ef8936-625a-4647-af3e-76a42c01ade0.png)
+
+Voltaje 
+
+![image](https://user-images.githubusercontent.com/84588860/131442324-a63ef820-c209-41e0-a6ec-be68ea112545.png)
+
+Onda Senoidal 
+
+![image](https://user-images.githubusercontent.com/84588860/131442353-cecd58a2-7965-4033-82a1-28c98b67f06a.png)
 
 ## 3.2 Analisis de Resultados : 
 
