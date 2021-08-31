@@ -159,7 +159,7 @@ Voltaje
 
 Voltaje Pico
 
-![image](https://user-images.githubusercontent.com/84588860/131441788-f6812a56-98b6-436b-af5f-e23a038b44ad.png)
+![image](https://user-images.githubusercontent.com/84594486/131458498-f985616f-4e49-4eab-a68c-86ad8d473c39.png)
 
 • Frecuencia 10 Hz 
 
